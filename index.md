@@ -1,5 +1,5 @@
 ---
-# ★ ★ ★ Welcome ★ ★ ★ 
+#  ║▌│║▌║▌█║ Welcome ▌│║▌║▌│║║
    
    This is a blog about myself, my passions, and my hobbies 
   
@@ -12,6 +12,8 @@
    I should update this at LEAST once a week, with tangible progress 
    
  ![Me](https://i.kym-cdn.com/photos/images/newsfeed/002/046/059/1b0.png)
+
+
 
 
 # Programming 
