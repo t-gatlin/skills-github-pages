@@ -9,4 +9,4 @@
 
    I should update this at LEAST once a week, with tangible progress 
    
- ![Me](https://media1.tenor.com/m/u0M08pXYL8YAAAAd/chad.gif)
+ ![Me](https://i.kym-cdn.com/photos/images/newsfeed/002/046/059/1b0.png)
