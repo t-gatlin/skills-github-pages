@@ -26,7 +26,7 @@ I should update this at LEAST once a week, with tangible progress
 
 # 2026 Main Goals
 ## 1. Programming
-   - Asm fundamentals ![](https://explore-feed.github.com/topics/assembly/assembly.png)
+   - Asm fundamentals ![](asm.png)
    - C fundamentals + basic programs
    - C ++ fundamentals
 
