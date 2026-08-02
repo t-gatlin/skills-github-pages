@@ -22,7 +22,7 @@ I would mainly like to use this as a way for me to process my ideas and keep tra
 I should update this at LEAST once a week, with tangible progress 
 
 # me
-## ![Me](https://i.kym-cdn.com/photos/images/newsfeed/002/046/059/1b0.png)
+## ![Me](me.png)
 
 # 2026 Main Goals
 ## 1. Programming
