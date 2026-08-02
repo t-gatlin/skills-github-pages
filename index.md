@@ -1,5 +1,6 @@
 ---
 title: Hello!
-HELLO
+HELLO;
+
 author: Tyler C. Gatlin
 ---
