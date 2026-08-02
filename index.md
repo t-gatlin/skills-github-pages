@@ -9,4 +9,4 @@
 
    I should update this at LEAST once a week, with tangible progress 
    
-# ![Me](https://media1.tenor.com/m/u0M08pXYL8YAAAAd/chad.gif)
+ ![Me](https://media1.tenor.com/m/u0M08pXYL8YAAAAd/chad.gif)
