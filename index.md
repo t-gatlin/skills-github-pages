@@ -1,5 +1,7 @@
 ---
 layout: home
+title: The Holy C
+description: A personal journal
 --- 
 
 #  ║▌│║▌║▌█║▌│║▌║▌│║║
