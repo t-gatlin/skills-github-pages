@@ -1,7 +1,7 @@
 ---
 layout: home
-title: The Holy C
-description: A personal journal
+title: [The Holy C]
+description: [A personal journal]
 ---
 
 
