@@ -6,11 +6,11 @@ description: A personal journal
 
 
 
-# _The Holy C_ 
+# _The Holy C_
 
--+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+-+H+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
-## Welcome  
+# Welcome  
 This is a blog about myself, my passions, and my hobbies 
    
 For now this will be comprised of two categories:  
@@ -21,8 +21,12 @@ I would mainly like to use this as a way for me to process my ideas and keep tra
 
 I should update this at LEAST once a week, with tangible progress 
 
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+
 # me
 ## ![Me](me.png)
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
 # 2026 Main Goals
 ## 1. Programming
@@ -34,6 +38,8 @@ I should update this at LEAST once a week, with tangible progress
    - Bench 185 by eoy
    - Run 1 mile / week
    - Start meal prep
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
 
 # Programming 
