@@ -7,8 +7,6 @@ title: [The Holy C]
 
 # _The Holy C_
 
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
-
 # Welcome  
 This is a blog about myself, my passions, and my hobbies    
 
@@ -24,12 +22,31 @@ I would mainly like to use this as a way for me to process my ideas and keep tra
 
 I should update this at LEAST once a week, with tangible progress 
 
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
 # me
-## ![Me](me.png)
+## <img width="1500" height="1080" alt="IMG_0373" src="https://github.com/user-attachments/assets/b3cff03d-b182-4fe0-9013-7596fe20038f" />
 
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+i am 23 y/o with a beautiful wife and perfect little kitty     
+they make me soso happy so i will write ab them too  
+u should look at her substack too (and buy her book)  
+for coding i use [neovim on arch linux](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Foriginal%2F001%2F504%2F030%2F022.png&f=1&nofb=1&ipt=61f31ee455a3a7b857957481b699a5f9b78a115edf2ea1d54b793a5633868050)  
+## pc 
+### build
+**specs**     
+*gpu* - 3060 ti    
+*cpu* - AMD Ryzen 5 5600X 6-Core Processor  
+*ram* - 16gb ddr4    
+
+**os**
+<img width="1727" height="1414" alt="osss" src="https://github.com/user-attachments/assets/2a70db9e-028e-434c-9ba3-909c45d65942" />
+<sup>arch btw</sup>  
+
+
+**plans**     
+      firstly i wanna upgrade to 32gb ram      
+      then move to a 3090 (?) and a 7800x3d     
+
+
 
 # 2026 Main Goals
 ## 1. [Programming](#programming)
@@ -41,8 +58,6 @@ I should update this at LEAST once a week, with tangible progress
    - Workout twice / week
    - Run 1 mile / week
    - Limit junk food 
-
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
 
 
 # Programming 
