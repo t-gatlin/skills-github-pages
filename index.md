@@ -1,20 +1,17 @@
 ---
 layout: default
-title: [The Holy C]
+title: [the Holy C]
+description: a personal blog 
 ---
 
 
+# welcome  
+this is a blog / journal / diary about myself, my passions, and my hobbies    
 
-# _The Holy C_
-
-# Welcome  
-This is a blog about myself, my passions, and my hobbies    
-
-
-
-For now this will be comprised of two categories:  
-   - [Programming](#programming) (C, C++)
-   - [Health](#health) (Gym, diet)  
+for now this will be comprised of three categories:  
+   - [life](#life)
+   - [programming](#programming) (C, C++)
+   - [health](#health) (Gym, diet)  
 
 
 
@@ -23,13 +20,17 @@ I would mainly like to use this as a way for me to process my ideas and keep tra
 I should update this at LEAST once a week, with tangible progress 
 
 
-# me
-## <img width="1500" height="1080" alt="IMG_0373" src="https://github.com/user-attachments/assets/b3cff03d-b182-4fe0-9013-7596fe20038f" />
-
+# me (intro)
+<img width="1500" height="1080" alt="IMG_0373" src="https://github.com/user-attachments/assets/b3cff03d-b182-4fe0-9013-7596fe20038f" /> 
+<sup>mr man</sup>
+ 
 i am 23 y/o with a beautiful wife and perfect little kitty     
 they make me soso happy so i will write ab them too  
 u should look at her substack too (and buy her book)  
-for coding i use [neovim on arch linux](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Foriginal%2F001%2F504%2F030%2F022.png&f=1&nofb=1&ipt=61f31ee455a3a7b857957481b699a5f9b78a115edf2ea1d54b793a5633868050)  
+for coding i use [neovim on arch linux](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Foriginal%2F001%2F504%2F030%2F022.png&f=1&nofb=1&ipt=61f31ee455a3a7b857957481b699a5f9b78a115edf2ea1d54b793a5633868050)    
+i like history and music and hiking and the outdoors  
+i will probably add more to this section over time
+
 ## pc 
 ### build
 **specs**     
@@ -46,25 +47,8 @@ for coding i use [neovim on arch linux](https://external-content.duckduckgo.com/
       firstly i wanna upgrade to 32gb ram      
       then move to a 3090 (?) and a 7800x3d     
 
+# life
 
+# programming 
 
-# 2026 Main Goals
-## 1. [Programming](#programming)
-   - Asm fundamentals ![](asm.png)
-   - C fundamentals + basic programs
-   - C ++ fundamentals
-
-## 2. [Health](#health)
-   - Workout twice / week
-   - Run 1 mile / week
-   - Limit junk food 
-
-
-# Programming 
-
-
-
-
-
-
-# Health
+# health
