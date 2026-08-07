@@ -1,7 +1,6 @@
 ---
 layout: default
 title: [The Holy C]
-description: [A personal journal]
 ---
 
 
