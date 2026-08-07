@@ -21,7 +21,7 @@ I should update this at LEAST once a week, with tangible progress
 
 
 # me (intro)
-<img width="1500" height="1080" alt="IMG_0373" src="https://github.com/user-attachments/assets/b3cff03d-b182-4fe0-9013-7596fe20038f" /> 
+<img width="500" height="500" alt="mrman" src="https://github.com/user-attachments/assets/b3cff03d-b182-4fe0-9013-7596fe20038f" /> 
 <sup>mr man</sup>
  
 i am 23 y/o with a beautiful wife and perfect little kitty     
@@ -31,7 +31,7 @@ for coding i use [neovim on arch linux](https://external-content.duckduckgo.com/
 i like history and music and hiking and the outdoors  
 i will probably add more to this section over time  
 
-<img width="1500" height="1080" alt="hannur" src="https://github.com/user-attachments/assets/b895de74-0f4b-44c1-81c7-7b3e812e1c96" />  
+<img width="500" height="500" alt="hannur" src="https://github.com/user-attachments/assets/b895de74-0f4b-44c1-81c7-7b3e812e1c96" />  
 <sup>banana</sup>
 
 ## pc 
@@ -42,7 +42,7 @@ i will probably add more to this section over time
 *ram* - 16gb ddr4    
 
 **os**
-<img width="1500" height="1080" alt="osss" src="https://github.com/user-attachments/assets/2a70db9e-028e-434c-9ba3-909c45d65942" />
+<img width="500" height="500" alt="osss" src="https://github.com/user-attachments/assets/2a70db9e-028e-434c-9ba3-909c45d65942" />
 <sup>arch btw</sup>  
 
 
