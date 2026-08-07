@@ -1,7 +1,7 @@
 ---
 layout: default
 title: [the Holy C]
-description: a personal blog 
+description: [a personal blog] 
 ---
 
 
@@ -39,7 +39,7 @@ i will probably add more to this section over time
 *ram* - 16gb ddr4    
 
 **os**
-<img width="1727" height="1100" alt="osss" src="https://github.com/user-attachments/assets/2a70db9e-028e-434c-9ba3-909c45d65942" />
+<img width="1727" height="720" alt="osss" src="https://github.com/user-attachments/assets/2a70db9e-028e-434c-9ba3-909c45d65942" />
 <sup>arch btw</sup>  
 
 
