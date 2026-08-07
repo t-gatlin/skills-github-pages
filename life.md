@@ -5,5 +5,8 @@ description: ["life updates"]
 
 # 2026
 
-this year i have learned a lot and done a lot
+so many good things have happened this year
+it might be my best year yet
+i feel i have made so many improvements in my life 
+
 
