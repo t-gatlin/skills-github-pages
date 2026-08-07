@@ -9,8 +9,8 @@ description: [a personal blog]
 this is a blog / journal / diary about myself, my passions, and my hobbies    
 
 for now this will be comprised of three categories:  
-   - [life](life.md)
-   - [programming](#programming) (C, C++)
+   - [life](life.md)  
+   - [programming](#programming) (C, C++)  
    - [health](#health) (Gym, diet)  
 
 
