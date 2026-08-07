@@ -10,8 +10,8 @@ this is a blog / journal / diary about myself, my passions, and my hobbies
 
 for now this will be comprised of three categories:  
    - [life](life.md)  
-   - [programming](#programming) (C, C++)  
-   - [health](#health) (Gym, diet)  
+   - [programming](programming.md) (C, C++)  
+   - [health](health.md) (Gym, diet)  
 
 
 
