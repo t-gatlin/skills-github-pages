@@ -52,8 +52,4 @@ i will probably add more to this section over time
 firstly i wanna upgrade to 32gb ram      
 then move to a 3090 (?) and a 7800x3d     
 
-# life
 
-# programming 
-
-# health
