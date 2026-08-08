@@ -1,12 +1,12 @@
-
 ---
 title: ["programming"]
-description: ["programming"]
+description: ["the Holy C"]
 ---
 
 # programming  
 i will add various programs + source code   
 as i learn the concepts of C and other languages
+at the bottom of this page is my [pc](#pc) specs  
 
 # projects in c  
 i will update this section over time to include projects along with the code  
@@ -32,5 +32,19 @@ converts fahrenheit to celsius
 
 also plan to add the ability for infinite calculations  
 
+# pc 
+### build
+**specs**     
+*gpu* - 3060 ti    
+*cpu* - AMD Ryzen 5 5600X 6-Core Processor  
+*ram* - 16gb ddr4    
 
+**os**  
+<img width="500" height="500" alt="osss" src="https://github.com/user-attachments/assets/2a70db9e-028e-434c-9ba3-909c45d65942" />  
+<sup>arch btw</sup>    
+
+
+**plans**     
+firstly i wanna upgrade to 32gb ram      
+then move to a 3090 (?) and a 7800x3d     
 
