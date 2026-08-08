@@ -28,6 +28,9 @@ another super simple program
 converts fahrenheit to celsius 
 
 [download](https://github.com/user-attachments/files/30849226/ftoc-calculator.c)
+[source](https://github.com/t-gatlin/skills-github-pages/blob/main/ftoc-calculator.c)
+
+also plan to add the ability for infinite calculations
 
 
 
