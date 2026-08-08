@@ -21,16 +21,16 @@ super simple program to do exactly 1 (one) math problem
 
 gonna add the ability to do as many operations as the user desires  
 
-## f to c calculator  
-0.01 completed 09-07-26
+## f to c calculator    
+0.01 completed 09-07-26  
 
-another super simple program  
-converts fahrenheit to celsius 
+another super simple program    
+converts fahrenheit to celsius   
 
-[download](https://github.com/user-attachments/files/30849226/ftoc-calculator.c)
-[source](https://github.com/t-gatlin/skills-github-pages/blob/main/ftoc-calculator.c)
+[download](https://github.com/user-attachments/files/30849226/ftoc-calculator.c)  
+[source](https://github.com/t-gatlin/skills-github-pages/blob/main/ftoc-calculator.c)  
 
-also plan to add the ability for infinite calculations
+also plan to add the ability for infinite calculations  
 
 
 
