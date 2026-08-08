@@ -10,7 +10,7 @@ description: ["life updates"]
  
 i am 23 y/o with a beautiful wife and perfect little kitty     
 they make me soso happy so i will write ab them too  
-u should look at her substack too (and buy her book)  
+u should look at her [substack](https://starwebxxx.substack.com/) too (and buy her book!)  
 for coding i use [neovim on arch linux](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Foriginal%2F001%2F504%2F030%2F022.png&f=1&nofb=1&ipt=61f31ee455a3a7b857957481b699a5f9b78a115edf2ea1d54b793a5633868050)    
 i like history and music and hiking and the outdoors  
 i will probably add more to this section over time  
