@@ -4,8 +4,10 @@ description: ["programming"]
 ---
 
 # programming  
+i will add various programs + source code   
+as i learn the concepts of C and other languages
 
-## projects in c  
+# projects in c  
 i will update this section over time to include projects along with the code  
 
 ## calculator   
@@ -17,3 +19,13 @@ super simple program to do exactly 1 (one) math problem
 [source code](https://github.com/t-gatlin/skills-github-pages/blob/main/calculator2.c)  
 
 gonna add the ability to do as many operations as the user desires  
+
+## f to c calculator  
+0.01 completed 09-07-26
+
+another super simple program  
+converts fahrenheit to celsius 
+
+[download]
+
+
